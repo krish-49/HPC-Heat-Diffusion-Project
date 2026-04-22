@@ -182,7 +182,7 @@ The project compares:
 
 ## Author
 
-Krish  (U23AI049)
+Krish  (U23AI049) /
 Chirag (U23AI070) / Team HPC Project
 
 ---
